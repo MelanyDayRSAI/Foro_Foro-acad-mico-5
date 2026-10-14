@@ -16,11 +16,10 @@
 \setlength{\parindent}{1.25cm}
 \setlength{\parskip}{0pt}
 
-% ---------- Datos del documento (edita aquí) ----------
+% ---------- Documento ----------
 \title{\textbf{Cómo garantizar la calidad de un proyecto de TI}}
-\author{Nombre del estudiante\\[0.3em]
-        Carrera / Curso\\[0.3em]
-        Nombre del docente}
+\author{Melany Romero\\[0.3em]
+       
 \date{\today}
 
 \begin{document}
